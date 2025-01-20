@@ -1,16 +1,33 @@
-## Hi there 👋
+## Привет! 👋
+
+Меня зовут Анна. Я фронтенд-разработчик.
+___
+
+#### 🛠️ Технологии и инструменты:
+- Базовые технологии и языки: JavaScript (ES6+), TypeScript, HTML5, CSS3.
+- Фреймворки и библиотеки: React, Redux/Router, SASS/SCSS.
+- Инструменты разработки и тестирования: Git, Webpack/Vite/Gulp, Storybook, Jest/Cypress, Prettier/Stylelint/ESLint, Figma.
+___
 
 <!--
-**anna-kobis/anna-kobis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### ⭐ Проекты:
+- ???
+___
+-->
 
-Here are some ideas to get you started:
+#### 🎯 Цели:
+- Изучение Redux-Saga, Next.js.
+- Улучшение навыков работы с TypeScript.
+- Разбор микросервисной архитектуры.
+___
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#### 🌐 Контакты:
+- tg: [@anna_kobis](https://t.me/anna_kobis)
+
+<!--
+Баннер с Codewars
+-->
+
+<!--
+Комментарий
 -->
