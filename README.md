@@ -22,6 +22,7 @@ ___
 ___
 
 #### 🌐 Контакты:
+- email: [anna.kobis@yandex.ru](mailto:anna.kobis@yandex.ru)
 - tg: [@anna_kobis](https://t.me/anna_kobis)
 
 <!--
